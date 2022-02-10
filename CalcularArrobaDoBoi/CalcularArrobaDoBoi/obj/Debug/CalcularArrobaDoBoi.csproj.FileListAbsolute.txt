@@ -1,0 +1,11 @@
+E:\escola_tiago\3e_DES_a\DS\2e_ga_DS_2022\CalcularArrobaDoBoi\CalcularArrobaDoBoi\bin\Debug\CalcularArrobaDoBoi.exe.config
+E:\escola_tiago\3e_DES_a\DS\2e_ga_DS_2022\CalcularArrobaDoBoi\CalcularArrobaDoBoi\bin\Debug\CalcularArrobaDoBoi.exe
+E:\escola_tiago\3e_DES_a\DS\2e_ga_DS_2022\CalcularArrobaDoBoi\CalcularArrobaDoBoi\bin\Debug\CalcularArrobaDoBoi.pdb
+E:\escola_tiago\3e_DES_a\DS\2e_ga_DS_2022\CalcularArrobaDoBoi\CalcularArrobaDoBoi\obj\Debug\CalcularArrobaDoBoi.csproj.AssemblyReference.cache
+E:\escola_tiago\3e_DES_a\DS\2e_ga_DS_2022\CalcularArrobaDoBoi\CalcularArrobaDoBoi\obj\Debug\CalcularArrobaDoBoi.csproj.SuggestedBindingRedirects.cache
+E:\escola_tiago\3e_DES_a\DS\2e_ga_DS_2022\CalcularArrobaDoBoi\CalcularArrobaDoBoi\obj\Debug\CalcularArrobaDoBoi.Form1.resources
+E:\escola_tiago\3e_DES_a\DS\2e_ga_DS_2022\CalcularArrobaDoBoi\CalcularArrobaDoBoi\obj\Debug\CalcularArrobaDoBoi.Properties.Resources.resources
+E:\escola_tiago\3e_DES_a\DS\2e_ga_DS_2022\CalcularArrobaDoBoi\CalcularArrobaDoBoi\obj\Debug\CalcularArrobaDoBoi.csproj.GenerateResource.cache
+E:\escola_tiago\3e_DES_a\DS\2e_ga_DS_2022\CalcularArrobaDoBoi\CalcularArrobaDoBoi\obj\Debug\CalcularArrobaDoBoi.csproj.CoreCompileInputs.cache
+E:\escola_tiago\3e_DES_a\DS\2e_ga_DS_2022\CalcularArrobaDoBoi\CalcularArrobaDoBoi\obj\Debug\CalcularArrobaDoBoi.exe
+E:\escola_tiago\3e_DES_a\DS\2e_ga_DS_2022\CalcularArrobaDoBoi\CalcularArrobaDoBoi\obj\Debug\CalcularArrobaDoBoi.pdb
