@@ -1,0 +1,6 @@
+E:\escola_tiago\3e_DES_a\qts\FuncoesMatematicas\FuncoesMatematicas\bin\Debug\FuncoesMatematicas.dll
+E:\escola_tiago\3e_DES_a\qts\FuncoesMatematicas\FuncoesMatematicas\bin\Debug\FuncoesMatematicas.pdb
+E:\escola_tiago\3e_DES_a\qts\FuncoesMatematicas\FuncoesMatematicas\obj\Debug\FuncoesMatematicas.csproj.AssemblyReference.cache
+E:\escola_tiago\3e_DES_a\qts\FuncoesMatematicas\FuncoesMatematicas\obj\Debug\FuncoesMatematicas.csproj.CoreCompileInputs.cache
+E:\escola_tiago\3e_DES_a\qts\FuncoesMatematicas\FuncoesMatematicas\obj\Debug\FuncoesMatematicas.dll
+E:\escola_tiago\3e_DES_a\qts\FuncoesMatematicas\FuncoesMatematicas\obj\Debug\FuncoesMatematicas.pdb

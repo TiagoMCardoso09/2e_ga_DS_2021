@@ -1,0 +1,14 @@
+E:\escola_tiago\3e_DES_a\qts\prjTesteDLL\prjTesteDLL\bin\Debug\prjTesteDLL.exe.config
+E:\escola_tiago\3e_DES_a\qts\prjTesteDLL\prjTesteDLL\bin\Debug\prjTesteDLL.exe
+E:\escola_tiago\3e_DES_a\qts\prjTesteDLL\prjTesteDLL\bin\Debug\prjTesteDLL.pdb
+E:\escola_tiago\3e_DES_a\qts\prjTesteDLL\prjTesteDLL\obj\Debug\prjTesteDLL.csproj.AssemblyReference.cache
+E:\escola_tiago\3e_DES_a\qts\prjTesteDLL\prjTesteDLL\obj\Debug\prjTesteDLL.csproj.SuggestedBindingRedirects.cache
+E:\escola_tiago\3e_DES_a\qts\prjTesteDLL\prjTesteDLL\obj\Debug\prjTesteDLL.Form1.resources
+E:\escola_tiago\3e_DES_a\qts\prjTesteDLL\prjTesteDLL\obj\Debug\prjTesteDLL.Properties.Resources.resources
+E:\escola_tiago\3e_DES_a\qts\prjTesteDLL\prjTesteDLL\obj\Debug\prjTesteDLL.csproj.GenerateResource.cache
+E:\escola_tiago\3e_DES_a\qts\prjTesteDLL\prjTesteDLL\obj\Debug\prjTesteDLL.csproj.CoreCompileInputs.cache
+E:\escola_tiago\3e_DES_a\qts\prjTesteDLL\prjTesteDLL\obj\Debug\prjTesteDLL.exe
+E:\escola_tiago\3e_DES_a\qts\prjTesteDLL\prjTesteDLL\obj\Debug\prjTesteDLL.pdb
+E:\escola_tiago\3e_DES_a\qts\prjTesteDLL\prjTesteDLL\bin\Debug\FuncoesMatematicas.dll
+E:\escola_tiago\3e_DES_a\qts\prjTesteDLL\prjTesteDLL\bin\Debug\FuncoesMatematicas.pdb
+E:\escola_tiago\3e_DES_a\qts\prjTesteDLL\prjTesteDLL\obj\Debug\prjTesteDLL.csproj.CopyComplete

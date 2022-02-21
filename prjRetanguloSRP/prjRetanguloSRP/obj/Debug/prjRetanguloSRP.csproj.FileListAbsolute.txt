@@ -1,0 +1,11 @@
+E:\escola_tiago\3e_DES_a\qts\prjRetanguloSRP\prjRetanguloSRP\bin\Debug\prjRetanguloSRP.exe.config
+E:\escola_tiago\3e_DES_a\qts\prjRetanguloSRP\prjRetanguloSRP\bin\Debug\prjRetanguloSRP.exe
+E:\escola_tiago\3e_DES_a\qts\prjRetanguloSRP\prjRetanguloSRP\bin\Debug\prjRetanguloSRP.pdb
+E:\escola_tiago\3e_DES_a\qts\prjRetanguloSRP\prjRetanguloSRP\obj\Debug\prjRetanguloSRP.csproj.AssemblyReference.cache
+E:\escola_tiago\3e_DES_a\qts\prjRetanguloSRP\prjRetanguloSRP\obj\Debug\prjRetanguloSRP.csproj.SuggestedBindingRedirects.cache
+E:\escola_tiago\3e_DES_a\qts\prjRetanguloSRP\prjRetanguloSRP\obj\Debug\prjRetanguloSRP.Properties.Resources.resources
+E:\escola_tiago\3e_DES_a\qts\prjRetanguloSRP\prjRetanguloSRP\obj\Debug\prjRetanguloSRP.visao.FormPrincipal.resources
+E:\escola_tiago\3e_DES_a\qts\prjRetanguloSRP\prjRetanguloSRP\obj\Debug\prjRetanguloSRP.csproj.GenerateResource.cache
+E:\escola_tiago\3e_DES_a\qts\prjRetanguloSRP\prjRetanguloSRP\obj\Debug\prjRetanguloSRP.csproj.CoreCompileInputs.cache
+E:\escola_tiago\3e_DES_a\qts\prjRetanguloSRP\prjRetanguloSRP\obj\Debug\prjRetanguloSRP.exe
+E:\escola_tiago\3e_DES_a\qts\prjRetanguloSRP\prjRetanguloSRP\obj\Debug\prjRetanguloSRP.pdb
