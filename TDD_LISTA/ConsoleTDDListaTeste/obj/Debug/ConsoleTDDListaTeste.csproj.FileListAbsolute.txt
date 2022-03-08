@@ -1,0 +1,11 @@
+E:\escola_tiago\3e_ga_DS_2022\TDD_LISTA\ConsoleTDDListaTeste\bin\Debug\ConsoleTDDListaTeste.exe.config
+E:\escola_tiago\3e_ga_DS_2022\TDD_LISTA\ConsoleTDDListaTeste\bin\Debug\ConsoleTDDListaTeste.exe
+E:\escola_tiago\3e_ga_DS_2022\TDD_LISTA\ConsoleTDDListaTeste\bin\Debug\ConsoleTDDListaTeste.pdb
+E:\escola_tiago\3e_ga_DS_2022\TDD_LISTA\ConsoleTDDListaTeste\bin\Debug\APP_LISTA.dll
+E:\escola_tiago\3e_ga_DS_2022\TDD_LISTA\ConsoleTDDListaTeste\bin\Debug\APP_LISTA.pdb
+E:\escola_tiago\3e_ga_DS_2022\TDD_LISTA\ConsoleTDDListaTeste\obj\Debug\ConsoleTDDListaTeste.csproj.AssemblyReference.cache
+E:\escola_tiago\3e_ga_DS_2022\TDD_LISTA\ConsoleTDDListaTeste\obj\Debug\ConsoleTDDListaTeste.csproj.SuggestedBindingRedirects.cache
+E:\escola_tiago\3e_ga_DS_2022\TDD_LISTA\ConsoleTDDListaTeste\obj\Debug\ConsoleTDDListaTeste.csproj.CoreCompileInputs.cache
+E:\escola_tiago\3e_ga_DS_2022\TDD_LISTA\ConsoleTDDListaTeste\obj\Debug\ConsoleTDDListaTeste.csproj.CopyComplete
+E:\escola_tiago\3e_ga_DS_2022\TDD_LISTA\ConsoleTDDListaTeste\obj\Debug\ConsoleTDDListaTeste.exe
+E:\escola_tiago\3e_ga_DS_2022\TDD_LISTA\ConsoleTDDListaTeste\obj\Debug\ConsoleTDDListaTeste.pdb

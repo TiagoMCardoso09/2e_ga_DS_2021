@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "263e39fd-fadd-478c-ba49-0a2d29ac4626": {
+      "ProjectGuid": "263e39fd-fadd-478c-ba49-0a2d29ac4626",
+      "DisplayName": "APP_LISTA",
+      "ColorIndex": 0
+    },
+    "8493c5c0-9de3-47cb-94bd-94e6d3676351": {
+      "ProjectGuid": "8493c5c0-9de3-47cb-94bd-94e6d3676351",
+      "DisplayName": "ConsoleTDDLista",
+      "ColorIndex": 1
+    },
+    "911d9713-682a-402a-b2e0-8bd78aa39286": {
+      "ProjectGuid": "911d9713-682a-402a-b2e0-8bd78aa39286",
+      "DisplayName": "ConsoleTDDListaTeste",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

@@ -1,0 +1,6 @@
+E:\escola_tiago\3e_ga_DS_2022\TDD_LISTA\APP_LISTA\obj\Debug\APP_LISTA.csproj.AssemblyReference.cache
+E:\escola_tiago\3e_ga_DS_2022\TDD_LISTA\APP_LISTA\obj\Debug\APP_LISTA.csproj.CoreCompileInputs.cache
+E:\escola_tiago\3e_ga_DS_2022\TDD_LISTA\APP_LISTA\bin\Debug\APP_LISTA.dll
+E:\escola_tiago\3e_ga_DS_2022\TDD_LISTA\APP_LISTA\bin\Debug\APP_LISTA.pdb
+E:\escola_tiago\3e_ga_DS_2022\TDD_LISTA\APP_LISTA\obj\Debug\APP_LISTA.dll
+E:\escola_tiago\3e_ga_DS_2022\TDD_LISTA\APP_LISTA\obj\Debug\APP_LISTA.pdb
