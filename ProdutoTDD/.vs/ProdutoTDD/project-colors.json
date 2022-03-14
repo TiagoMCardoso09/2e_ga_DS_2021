@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2c1b9ce6-3c90-47bc-b3bb-2a3487b60a63": {
+      "ProjectGuid": "2c1b9ce6-3c90-47bc-b3bb-2a3487b60a63",
+      "DisplayName": "ProdutoAPI",
+      "ColorIndex": 0
+    },
+    "b8e65b52-650b-4416-b70d-b2c1b57a4890": {
+      "ProjectGuid": "b8e65b52-650b-4416-b70d-b2c1b57a4890",
+      "DisplayName": "testeProdutoTDD",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

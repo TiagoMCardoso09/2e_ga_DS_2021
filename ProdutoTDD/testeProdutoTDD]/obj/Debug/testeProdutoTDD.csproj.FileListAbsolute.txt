@@ -1,0 +1,11 @@
+E:\escola_tiago\3e_ga_DS_2022\ProdutoTDD\testeProdutoTDD]\bin\Debug\testeProdutoTDD].exe.config
+E:\escola_tiago\3e_ga_DS_2022\ProdutoTDD\testeProdutoTDD]\bin\Debug\testeProdutoTDD].exe
+E:\escola_tiago\3e_ga_DS_2022\ProdutoTDD\testeProdutoTDD]\bin\Debug\testeProdutoTDD].pdb
+E:\escola_tiago\3e_ga_DS_2022\ProdutoTDD\testeProdutoTDD]\bin\Debug\ProdutoAPI.dll
+E:\escola_tiago\3e_ga_DS_2022\ProdutoTDD\testeProdutoTDD]\bin\Debug\ProdutoAPI.pdb
+E:\escola_tiago\3e_ga_DS_2022\ProdutoTDD\testeProdutoTDD]\obj\Debug\testeProdutoTDD.csproj.AssemblyReference.cache
+E:\escola_tiago\3e_ga_DS_2022\ProdutoTDD\testeProdutoTDD]\obj\Debug\testeProdutoTDD.csproj.SuggestedBindingRedirects.cache
+E:\escola_tiago\3e_ga_DS_2022\ProdutoTDD\testeProdutoTDD]\obj\Debug\testeProdutoTDD.csproj.CoreCompileInputs.cache
+E:\escola_tiago\3e_ga_DS_2022\ProdutoTDD\testeProdutoTDD]\obj\Debug\testeProdutoTDD.csproj.CopyComplete
+E:\escola_tiago\3e_ga_DS_2022\ProdutoTDD\testeProdutoTDD]\obj\Debug\testeProdutoTDD].exe
+E:\escola_tiago\3e_ga_DS_2022\ProdutoTDD\testeProdutoTDD]\obj\Debug\testeProdutoTDD].pdb

@@ -1,0 +1,7 @@
+E:\escola_tiago\3e_ga_DS_2022\ProdutoTDD\ProdutoAPI\bin\Debug\ProdutoAPI.dll
+E:\escola_tiago\3e_ga_DS_2022\ProdutoTDD\ProdutoAPI\bin\Debug\ProdutoAPI.pdb
+E:\escola_tiago\3e_ga_DS_2022\ProdutoTDD\ProdutoAPI\obj\Debug\ProdutoAPI.csproj.AssemblyReference.cache
+E:\escola_tiago\3e_ga_DS_2022\ProdutoTDD\ProdutoAPI\obj\Debug\ProdutoAPI_MarkupCompile.cache
+E:\escola_tiago\3e_ga_DS_2022\ProdutoTDD\ProdutoAPI\obj\Debug\ProdutoAPI.csproj.CoreCompileInputs.cache
+E:\escola_tiago\3e_ga_DS_2022\ProdutoTDD\ProdutoAPI\obj\Debug\ProdutoAPI.dll
+E:\escola_tiago\3e_ga_DS_2022\ProdutoTDD\ProdutoAPI\obj\Debug\ProdutoAPI.pdb
