@@ -11,10 +11,42 @@ namespace testeProdutoTDD_
     {
         static void Main(string[] args)
         {
-            IProdutoRepositorio produto = new ProdutoRepositorio();
+            IProdutoRepositorio banco = new ProdutoRepositorio (new List<Produto>());
 
-            produto.cadastrar();
-            produto.ler();
+            banco.Adicionar(
+                    new Livro(
+                        1,
+                        "DOM CASMURRO",
+                        "RECORD",
+                        "MACHADO DE ASSIS",
+                        "123456"
+                    )
+                );
+
+            banco.Adicionar(
+                 new DVD(
+                         1,
+                         "Gente Grande",
+                         "Columbia Pictures",
+                         "Adam Sandler",
+                         "2010"
+                     )
+                 );
+
+            banco.Adicionar(
+                new CD(
+                        3,
+                        "CARMINA BURANA",
+                        "DECA",
+                        "EURODITO",
+                        1989
+                    )
+                );
+
+            Console.BackgroundColor = ConsoleColor.Black;
+            Console.Clear();
+
+            banco.ler();
 
             Console.ReadKey();
         }

@@ -8,18 +8,21 @@ namespace ProdutoAPI
 {
     public class ProdutoRepositorio: IProdutoRepositorio
     {
-        public Produto p { get; set; }
-        public void cadastrar()
+        public List<Produto> Produtos { get; set; }
+
+        public ProdutoRepositorio(List<Produto> Produtos)
         {
-            p = new Livro();
-            p.Id = 1;
-            p.Nome = "DOM CASMURRO";
-            p.Fabricante = "Record";
+            this.Produtos = Produtos;
         }
 
         public void ler()
         {
-            Console.WriteLine("{0}  {1}  {2}", p.Id, p.Nome, p.Fabricante);
+            Produtos.ForEach(i => i.imprimir());
+        }
+
+        public void Adicionar(Produto P)
+        {
+            Produtos.Add(P);
         }
     }
 }

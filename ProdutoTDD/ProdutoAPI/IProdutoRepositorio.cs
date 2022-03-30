@@ -8,7 +8,7 @@ namespace ProdutoAPI
 {
     public interface IProdutoRepositorio
     {
-        void cadastrar();
         void ler();
+        void Adicionar(Produto P);
     }
 }

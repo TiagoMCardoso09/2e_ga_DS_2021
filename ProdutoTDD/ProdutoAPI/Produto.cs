@@ -12,11 +12,13 @@ namespace ProdutoAPI
         public string Nome { get; set; }
         public string Fabricante { get; set; }
 
-        public Produto()
+        public Produto(int Id, string Nome, string Fabricante)
         {
-            Id = 0;
-            Nome = "";
-            Fabricante = "";
+            this.Id = Id;
+            this.Nome = Nome;
+            this.Fabricante = Fabricante;
         }
+
+        public abstract void imprimir();
     }
 }

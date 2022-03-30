@@ -5,3 +5,16 @@ E:\escola_tiago\3e_ga_DS_2022\ProdutoTDD\ProdutoAPI\obj\Debug\ProdutoAPI_MarkupC
 E:\escola_tiago\3e_ga_DS_2022\ProdutoTDD\ProdutoAPI\obj\Debug\ProdutoAPI.csproj.CoreCompileInputs.cache
 E:\escola_tiago\3e_ga_DS_2022\ProdutoTDD\ProdutoAPI\obj\Debug\ProdutoAPI.dll
 E:\escola_tiago\3e_ga_DS_2022\ProdutoTDD\ProdutoAPI\obj\Debug\ProdutoAPI.pdb
+T:\3e_ga_DS_2022\ProdutoTDD\ProdutoAPI\bin\Debug\ProdutoAPI.dll
+T:\3e_ga_DS_2022\ProdutoTDD\ProdutoAPI\bin\Debug\ProdutoAPI.pdb
+T:\3e_ga_DS_2022\ProdutoTDD\ProdutoAPI\obj\Debug\ProdutoAPI.csproj.AssemblyReference.cache
+T:\3e_ga_DS_2022\ProdutoTDD\ProdutoAPI\obj\Debug\ProdutoAPI_MarkupCompile.cache
+T:\3e_ga_DS_2022\ProdutoTDD\ProdutoAPI\obj\Debug\ProdutoAPI.csproj.CoreCompileInputs.cache
+T:\3e_ga_DS_2022\ProdutoTDD\ProdutoAPI\obj\Debug\ProdutoAPI.dll
+T:\3e_ga_DS_2022\ProdutoTDD\ProdutoAPI\obj\Debug\ProdutoAPI.pdb
+D:\3e_ga_DS_2022\ProdutoTDD\ProdutoAPI\bin\Debug\ProdutoAPI.dll
+D:\3e_ga_DS_2022\ProdutoTDD\ProdutoAPI\bin\Debug\ProdutoAPI.pdb
+D:\3e_ga_DS_2022\ProdutoTDD\ProdutoAPI\obj\Debug\ProdutoAPI.csprojResolveAssemblyReference.cache
+D:\3e_ga_DS_2022\ProdutoTDD\ProdutoAPI\obj\Debug\ProdutoAPI_MarkupCompile.cache
+D:\3e_ga_DS_2022\ProdutoTDD\ProdutoAPI\obj\Debug\ProdutoAPI.dll
+D:\3e_ga_DS_2022\ProdutoTDD\ProdutoAPI\obj\Debug\ProdutoAPI.pdb
