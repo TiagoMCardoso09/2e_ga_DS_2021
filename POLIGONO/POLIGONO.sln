@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POLIGONO_API", "POLIGONO_API\POLIGONO_API.csproj", "{B796513C-AAE4-44EC-83DB-5206F34D06DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TESTE_POLIGONO", "TESTE_POLIGONO\TESTE_POLIGONO.csproj", "{B7D8B2EC-52AC-4BA8-8AC7-8F20ED95A5B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B796513C-AAE4-44EC-83DB-5206F34D06DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B796513C-AAE4-44EC-83DB-5206F34D06DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B796513C-AAE4-44EC-83DB-5206F34D06DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B796513C-AAE4-44EC-83DB-5206F34D06DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7D8B2EC-52AC-4BA8-8AC7-8F20ED95A5B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7D8B2EC-52AC-4BA8-8AC7-8F20ED95A5B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7D8B2EC-52AC-4BA8-8AC7-8F20ED95A5B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7D8B2EC-52AC-4BA8-8AC7-8F20ED95A5B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

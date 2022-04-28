@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FOLHA_PAGAMENTO", "FOLHA_PAGAMENTO\FOLHA_PAGAMENTO.csproj", "{8E188564-48E0-444D-AB02-ACEC5EE0AAE0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FOLHA_TESTE", "FOLHA_TESTE\FOLHA_TESTE.csproj", "{DCAC007F-429C-48EA-B126-8A8147C008EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E188564-48E0-444D-AB02-ACEC5EE0AAE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E188564-48E0-444D-AB02-ACEC5EE0AAE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E188564-48E0-444D-AB02-ACEC5EE0AAE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E188564-48E0-444D-AB02-ACEC5EE0AAE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCAC007F-429C-48EA-B126-8A8147C008EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCAC007F-429C-48EA-B126-8A8147C008EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCAC007F-429C-48EA-B126-8A8147C008EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCAC007F-429C-48EA-B126-8A8147C008EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D38BE8E-CA0B-4258-8DA2-825DF2D15345}
+	EndGlobalSection
+EndGlobal

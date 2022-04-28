@@ -1,0 +1,11 @@
+T:\3e_ga_DS_2022\FOLHA\FOLHA_TESTE\bin\Debug\FOLHA_TESTE.exe.config
+T:\3e_ga_DS_2022\FOLHA\FOLHA_TESTE\bin\Debug\FOLHA_TESTE.exe
+T:\3e_ga_DS_2022\FOLHA\FOLHA_TESTE\bin\Debug\FOLHA_TESTE.pdb
+T:\3e_ga_DS_2022\FOLHA\FOLHA_TESTE\bin\Debug\FOLHA_PAGAMENTO.dll
+T:\3e_ga_DS_2022\FOLHA\FOLHA_TESTE\bin\Debug\FOLHA_PAGAMENTO.pdb
+T:\3e_ga_DS_2022\FOLHA\FOLHA_TESTE\obj\Debug\FOLHA_TESTE.csproj.AssemblyReference.cache
+T:\3e_ga_DS_2022\FOLHA\FOLHA_TESTE\obj\Debug\FOLHA_TESTE.csproj.SuggestedBindingRedirects.cache
+T:\3e_ga_DS_2022\FOLHA\FOLHA_TESTE\obj\Debug\FOLHA_TESTE.csproj.CoreCompileInputs.cache
+T:\3e_ga_DS_2022\FOLHA\FOLHA_TESTE\obj\Debug\FOLHA_TESTE.csproj.CopyComplete
+T:\3e_ga_DS_2022\FOLHA\FOLHA_TESTE\obj\Debug\FOLHA_TESTE.exe
+T:\3e_ga_DS_2022\FOLHA\FOLHA_TESTE\obj\Debug\FOLHA_TESTE.pdb
